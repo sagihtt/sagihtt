@@ -1,4 +1,3 @@
-
 ### Projetos
 
 * **[SOIL](https://github.com/sagihtt/soil):** Plataforma B2B para especificação técnica veicular e orçamentos multicritério. Desenvolvida em TypeScript estrito, Clean Architecture, DDD e suíte TDD com 40 testes automatizados.
