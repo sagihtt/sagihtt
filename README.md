@@ -1,14 +1,3 @@
-# Thiago Azenha
-
-Pesquisa e desenvolvimento em Análise de Sistemas, administração de infraestrutura Linux e engenharia de software para a web.
-
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ SISTEMAS & INFRAESTRUTURA: Linux KVM • Nginx • Docker • MySQL 8.0 • GCP     │
-│ ENGENHARIA DE SOFTWARE:    Node.js • TypeScript • Fastify • Python • React  │
-│ DOMÍNIO OPERACIONAL:       engine.lat (VPS dedicada em produção)            │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
 
 ### Projetos
 
